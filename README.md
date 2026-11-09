@@ -1,6 +1,6 @@
 # Surveillance de température
 
-Projet d'électronique sur Arduino (Université Côte d'Azur, 2025) : un capteur DHT22 mesure la température, un écran LCD l'affiche, et une LED et un buzzer signalent le dépassement d'un seuil.
+Projet d'électronique sur Arduino (Université Côte d'Azur) : un capteur DHT22 mesure la température, un écran LCD l'affiche, et une LED et un buzzer signalent le dépassement d'un seuil.
 
 ![Le prototype vu de face](docs/prototype-ecran.jpg)
 
